@@ -1,0 +1,77 @@
+get data in table with ui 
+get data in table with sql
+get data in table with ui and sql
+update data in table with ui and sql
+delete rows from table with ui and sql
+
+update query 
+UPDATE `students` SET `year` = '4tn' WHERE `students`.`id` = 2;
+l
+
+connect php with mysql
+
+how many ways do we have to connect?
+make variables for connection.
+make connect with mysqli class.
+get the able list from database.
+
+82 PHP and MySql Connection with PDO
+make variables for connection.
+make connect with PDO class.
+get the table list from database.
+
+83 same 
+note: // PDO = php data object 
+for deep study do search on browser this php pdo set attribute error mode 
+
+84. read data from mysql in php
+make config file 
+make a file for reading data
+write conde to get data
+display data in html table
+interview question 
+
+
+85. insert data in mysql tablemake file for inserting data.
+import config file.
+make html from
+insert data with html fromcheck if data in inserted or not 
+interview question
+videon 86
+
+86. delete record from mysql
+make a file for deleting a record
+include config file 
+delete record with static data 
+display data in list
+add delete button with list 
+delete data with a button 
+
+88.populate data in input fields
+make a file for update a record
+incude config file 
+add update button with table 
+get student data with selected id 
+populate data in input fields 
+
+89.update data in mysql table
+start from last video 
+updae record with static data 
+update record with pos reuest 
+check data is updated or not 
+interview question 
+
+90 swarch in mysql table with php
+make a form for search 
+write code for search result 
+search with likr operator
+display searched result
+interview question 
+
+
+first of all write all the builtin function 
+
+LIKE is asked in multiple times in interview
+
+
+

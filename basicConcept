@@ -1,0 +1,50 @@
+44. foreach loop
+# use of foreach loop
+45. Associative array 
+it has no index 
+
+52 Include file in another file 
+Include: can load multiple times in case of loop
+include_once: can load only one time even inside loop
+required: it gives fatel errors while include give warning, warning can hide in produceion
+required_once: it gives fatel errors  other same like include_once
+Examples for all functions
+
+
+60 cookies 
+to store user information cookies are used
+it is used to store data on browser (that is where website open)
+benefits: last time when use access the website 
+and accessing data from server every time make website slow so stored in browser 
+
+syntax
+setcookie(name, value, expire, path, domain, secure, httponly);
+name: it is mandatory others are optional
+value: what value insert in name,
+expire: storing data on cookie is not permanent,
+path: where we have to make cookie available ,like \home, \about
+domain: cookie is not available cross domain  subdoman: where we make to make cookie accessible,
+secure: works on https not work on http,
+httponly: only accessible if we make server call not assible on ui
+
+
+62
+Session in php 
+we can store any information 
+when use login which day, which time about all 
+Differentiate:
+cookie store data in browser 
+less secure,
+cannot store more information
+store non sensitive data
+non sensitive like which browser used 
+cookie is faster because data is stored in browser
+VS
+Session store data in server,
+ that means data is secure
+ can store more data
+ sensitive data like user password login
+ session is slower because data comes from server
+
+Similarities:
+both store information
